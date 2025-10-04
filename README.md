@@ -10,7 +10,7 @@ Transformando datos
 2. Importa las librerías en Visual Code.
 3. Ejecuta las celdas de código una a una.
 
-![](ChatGPT Image 2 oct 2025, 12_20_24.png)
+![](https://raw.githubusercontent.com/project-da-promo-57-modulo-3/Evaluación3/main/image.jpg)g)
 
 ### 🪐 Autor
 

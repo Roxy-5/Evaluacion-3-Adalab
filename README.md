@@ -10,7 +10,7 @@ Transformando datos
 2. Importa las librerías en Visual Code.
 3. Ejecuta las celdas de código una a una.
 
-![](https://raw.githubusercontent.com/project-da-promo-57-modulo-3/Evaluación3/main/image.jpg)g)
+![](https://raw.githubusercontent.com/project-da-promo-57-modulo-3/Evaluación3/image.jpg)
 
 ### 🪐 Autor
 

@@ -7,7 +7,7 @@ Transformando datos
 ### 🚀 Cómo usar
 
 1. Clona este repositorio.
-2. Importa las librerías en Visual Code.
+2. Descarga las librerías en Visual Code.
 3. Ejecuta las celdas de código una a una.
 
 ![](https://github.com/Adalab/project-da-promo-57-modulo-3/blob/main/imagen.png?raw=true)
